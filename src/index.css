@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+
+
+  h1 {
+    @apply text-5xl font-bold text-gray-900;
+  }
+  p {
+    @apply text-base text-gray-700;
+  }
+}
