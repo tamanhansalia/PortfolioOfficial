@@ -4,7 +4,7 @@ import { FiGithub } from "react-icons/fi";
 
 const Hero = () => {
   return (
-    <section className="h-full pt-28 pb-7 bg-slate-100">
+    <section id="home" className="h-full pt-28 pb-7 bg-slate-100">
       <div className="container mx-auto h-full lg:px-16">
         <div className="flex flex-col lg:flex-row items-center gap-10">
           <div className="left  text-center">

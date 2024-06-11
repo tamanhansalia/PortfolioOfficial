@@ -8,19 +8,19 @@ function Navbar() {
   const [toggle, setToggle] = useState(false);
   const menuList = [
     {
-      id: 1,
+      id: '#home',
       name: "Home",
     },
     {
-      id: 2,
+      id: '#about',
       name: "About",
     },
     {
-      id: 3,
+      id: '#projects',
       name: "Projects",
     },
     {
-      id: 4,
+      id: '#contact',
       name: "Contact",
     },
   ];

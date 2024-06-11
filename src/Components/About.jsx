@@ -3,7 +3,7 @@ import Navbar from "./Navbar";
 
 const About = () => {
   return (
-    <div id="2">
+    <div id="about">
       <div className="container mx-auto h-full py-20 px-10 bg-white">
         <div className="flex flex-col lg:flex-row items-center gap-10 ">
           <div className="right ">
