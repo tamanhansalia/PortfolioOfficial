@@ -10,7 +10,7 @@ const Hero = () => {
           <div className="left  text-center">
             <h1 className="flex">Front-End React Developer</h1>
             <p className="py-5 px-7">
-              Hi, I'm Taman Patel. A passionate Front-end React Developer
+              Hi, I'm Taman Hansaliya. A passionate Front-end React Developer
             </p>
             <div class="flex justify-center py-5">
               <a href="">

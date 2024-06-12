@@ -37,7 +37,7 @@ export default function Contact() {
 
   return (
     <div id="contact">
-      <div className="py-20 px-10 md:px-40 lg:px-72">
+      <div className="py-20 px-10 md:px-40 lg:px-72 font-medium">
         <div className="left max-md:text-center">
           <h2 className="text-blue-500 font-bold py-2">Don't be shy Just Smash it!</h2>
           <h3 className="text-3xl font-bold pb-5">Contact</h3>
