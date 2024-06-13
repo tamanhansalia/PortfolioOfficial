@@ -13,10 +13,10 @@ const About = () => {
             />
           </div>
           <div className="left max-md:text-centerm mx-auto">
-            <h2 className="text-blue-500 font-bold py-2">
+            <h2 className="text-xl text-blue-500 font-bold py-2">
               Front-End Developer
             </h2>
-            <h3 className="text-3xl font-bold pb-5">About Me</h3>
+            <h3 className="text-4xl font-semibold">About Me</h3>
             <p>Hey, my name is Taman, I'm a Frontend Developer from India📍.</p>
             <p> Creates and develop a clean UI/UX for my projects.</p>
             <br />
