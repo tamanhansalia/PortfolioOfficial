@@ -17,7 +17,7 @@ const Navbar = () => {
   return (
     <div className=" w-full min-h-[20px] flex justify-between items-center px-10 py-4 fixed z-[100] text-black bg-white shadow-lg ">
       <div className="flex justify-between">
-        <h2 className="text-3xl font-bold">Taman.dev</h2>
+        <h2 className="text-3xl font-bold">Taman.Codes</h2>
       </div>
       <ul className="hidden sm:flex gap-5 text-lg ">
         <li className="hover:text-blue-500 font-semibold">

@@ -15,6 +15,10 @@
   p {
     @apply text-base text-gray-600;
   }
+
+  .icons{
+    @apply  font-semibold   text-gray-900 group-hover:text-blue-500 transition-all duration-300;
+  }
   button {
     @apply border-[1px] font-semibold p-3 w-32 rounded-full border-gray-900 bg-transparent text-gray-900 hover:bg-gray-800 hover:text-white transition-all duration-300;
   }
