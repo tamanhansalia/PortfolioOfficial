@@ -17,7 +17,7 @@ const Navbar = () => {
   return (
     <div className=" w-full min-h-[20px] flex justify-between items-center px-10 py-4 fixed z-[100] text-black bg-white shadow-lg ">
       <div className="flex justify-between">
-        <h2 className="text-3xl font-bold">Taman.Codes</h2>
+        <h2 className="text-3xl font-semibold text-gray-900">Taman.Codes</h2>
       </div>
       <ul className="hidden sm:flex gap-5 text-lg ">
         <li className="hover:text-blue-500 font-semibold">
@@ -49,7 +49,7 @@ const Navbar = () => {
       >
         <ul className="h-full w-full text-center pt-12 ">
           <li className="text-2xl py-8 hover:text-blue-500 font-semibold">
-            <a href="/">Home</a>
+            <a href="">Home</a>
           </li>
           <li className="text-2xl py-8 hover:text-blue-500 font-semibold">
             <a href="#about">About</a>
